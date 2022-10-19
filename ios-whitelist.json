@@ -1163,6 +1163,12 @@
       "version": "^~>\\s?1.+"
     },
     {
+        "name": "SPPGlobe",
+        "source": "private",
+        "target": "production",
+        "version": "^~>\\s?1.+"
+    },
+    {
       "name": "MLCrossAppLinks",
       "source": "private",
       "target": "production",
